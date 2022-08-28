@@ -1,0 +1,107 @@
+
+p{
+    color: rgb(199, 186, 219);
+    font-style: italic;
+    font-size: 20px;
+    text-align: left;
+    text-indent: 10px;
+    text-decoration: underline;
+    text-decoration-color: violet;
+    line-height: 30px;
+    background-color: aquamarine;
+
+}
+
+
+table{
+    color: rgb(157, 157, 186);
+    width: 35%;
+    font-style: oblique;
+    border-color: rgb(59, 90, 148);
+}
+marquee{
+    color: rgb(205, 233, 217);
+    color-scheme: 12px;
+    column-gap: 7cm;
+    column-rule: 2in;
+    font-size: 100px;
+    font-variant: inherit;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-rendering: geometricPrecision;
+    text-indent: 30px;
+
+    
+    
+}
+h2{
+    color: rgb(243, 226, 219);
+    font-weight: 300;
+    font-style: italic;
+    font-variant: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: overline;
+    text-decoration-color: black;
+    word-spacing: 20px;
+
+}
+h3{
+    color: white;
+}
+img{
+    box-sizing: border-box;
+    border: 5px;
+    border-color: rgb(156, 156, 217);
+}
+video{
+    border-radius: 3px;
+    border: 3px;
+    background-image: -moz-linear-gradient();
+}
+span{
+    color: #c1e0b7;
+}
+
+#block{
+    background-color: rgb(235, 93, 32);
+    color: whitesmoke;
+    border: 5px solid black;
+    padding: 20px;
+    outline: 5px dotted violet;
+    outline-offset: 2px;
+}
+#block1{
+    background-color: aquamarine;
+    border: 5px solid rgb(223, 202, 202);
+    padding: 20px;
+}
+*{
+background-image:linear-gradient(rgb(4, 4, 4),rgb(92, 92, 207));
+
+}
+.me{
+    font-variant-caps: petite-caps;
+
+}
+marquee{
+    border: 2px solid rgb(28, 28, 27);
+}
+audio{
+    border: 2px double rgb(200, 73, 200);
+}
+#block2{
+    border: 5px dotted black;
+    background-color: rgb(241, 178, 155);
+    outline: 2px solid rgb(133, 212, 102);
+    outline-offset: 3px;
+}
+#log{
+    text-shadow: 10px 10px 3px rgb(246, 241, 241);
+}
+.sec{
+    display: inline-flex;
+    position: relative;
+
+
+
+}
